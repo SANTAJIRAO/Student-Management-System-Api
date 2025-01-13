@@ -1,1 +1,2 @@
 # Student-Management-System-Api
+The Student Management System API, built with ASP.NET Core, simplifies managing students, teachers, and admins. It supports user registration, login, profile management, role-based access, and attendance tracking. Secured with JWT authentication and integrated with a database via Entity Framework Core, it ensures data security and scalability. Designed for seamless integration with a simple frontend, it offers an efficient solution for student data management.
